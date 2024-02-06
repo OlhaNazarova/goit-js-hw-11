@@ -88,7 +88,6 @@ function createGallery(data) {
     });
 
     refs.galleryList.innerHTML = '';
-
     loaderHide();
     return;
   }
